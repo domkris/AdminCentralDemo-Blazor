@@ -1,4 +1,4 @@
-using AdminCentralDemo.Web.Client.Pages;
+using AdminCentralDemo.Web.Client;
 using AdminCentralDemo.Web.Components;
 
 var builder = WebApplication.CreateBuilder(args);
